@@ -63,4 +63,4 @@ https://github.com/user-attachments/assets/81a3aaa0-9826-43e8-adfb-956f6129322a
 - "Hey, find [object]" for targeted object detection
 - "Hey, resume" to continue analysis mode after an interruption
 
-## You can access our presentation [here](https://www.canva.com/design/DAGjy1mgwis/slWB7Rl90ZanBv3x0a2hHA/edit).
+## You can access our presentation [here](https://www.canva.com/design/DAGjy1mgwis/slWB7Rl90ZanBv3x0a2hHA/view).

@@ -2,6 +2,8 @@
 
 A React Native application that uses the device's camera and OpenAI's Vision API to provide audio descriptions of surroundings. The app features voice commands for accessibility and is designed primarily for visually impaired users.
 
+https://github.com/user-attachments/assets/81a3aaa0-9826-43e8-adfb-956f6129322a
+
 ## Setup Instructions
 
 1. Clone the repository
